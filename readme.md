@@ -27,3 +27,5 @@ In NLP, linear chain CRFs are popular, which implement sequential dependencies i
 
 ## NLP Python
 * https://github.com/explosion/spaCy
+
+Syntactic and semantic processing can be done independently. In human understanding it may be done simultaneously.

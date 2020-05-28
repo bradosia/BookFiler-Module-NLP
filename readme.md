@@ -24,3 +24,6 @@ In NLP, linear chain CRFs are popular, which implement sequential dependencies i
 * https://github.com/meta-toolkit/meta
 * https://github.com/LanguageMachines/frog
 * https://github.com/facebookresearch/StarSpace
+
+## NLP Python
+* https://github.com/explosion/spaCy
